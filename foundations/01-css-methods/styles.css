@@ -1,11 +1,12 @@
 /* styles.css */
 
 div{
-    font-weight: 900;
+    font-weight: bold;
+    width:max-content;
     font-size: 32px;
     color: white;
     background-color: red;
-    text-indent: 16px;
+    align-items: center;
 }
 
 
